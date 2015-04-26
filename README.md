@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is a repo is for the Data Science courses.
+This repo is for the Data Science courses.
